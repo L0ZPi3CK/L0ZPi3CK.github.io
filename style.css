@@ -1,0 +1,204 @@
+html
+{
+	color: black;
+    background-color: white
+}
+
+body
+{
+    font-family: "Open Sans", sans-serif;
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	width: auto;
+}
+
+header
+{
+    height: 120px;
+	width: 1920px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#wstep
+{
+	background: #ECECEC;
+	height: 100px;
+	text-align: center;
+	align-items: center;
+	line-height: 10px;
+	padding-top: 25px;	
+	letter-spacing: 1px; 
+	width: 1920px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 120px;
+}
+
+#menu
+{
+    background: #a51b0b;
+    height: 60px;
+	width: 1920px;
+	margin-left: auto;
+	margin-right: auto;
+    font-size: 12px;
+}
+
+#przesunbutton
+{
+    height: 60px;
+	width:1920px;
+    align-items: center;
+    display: flex;
+	position: relative;
+	left: 300px;
+}
+
+a:link
+{
+	height: 0px;
+	margin-top:-60px;
+
+	
+}
+
+.button
+{
+    background-color: #555555;
+    color: white;
+    border: none;
+    display: inline-block;
+    border-radius: 5px 5px 5px 5px;
+    height: 25px;
+    padding: 0px 32px;
+    font-weight: bold;
+    text-align: center;
+	margin-left:auto;
+    margin-right:auto;
+	margin:20px;
+}
+.button:hover {background-color: #404040}
+
+.button:active 
+{
+background-color: #404040;
+transform: translateY(4px);
+}
+
+#graphic
+{
+	margin-left: auto;
+	margin-right: auto;
+	align-items: center;
+	margin: auto;
+	width: 1920px;
+}
+
+#informacje
+{
+	height: 450px;
+	margin-top: -10px;
+	width:1920px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#tekstznaczki
+{
+	background:white;
+	height: 250px;
+	width: 1920px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#tekstznaczki2
+{
+	background:white;
+	height: 250px;
+	width: 1920px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#tekstznaczki3
+{
+	background:white;
+	height: 250px;
+	width: 1920px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+section
+{
+	width: 1200px;
+	display: flex;
+	margin: auto;
+	margin-top:50px;
+	align-items: center;
+}
+
+article
+{
+	width: auto;
+	text-align: left;
+	margin-left: 140px;	
+}
+
+#czerwony
+{
+	background-color: #a51b0b;
+	height: 30px;
+}
+
+#welcome
+{
+	width: 1920px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#welocme1
+{
+	margin-top: 100px;
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	color: black;
+	text-align: center; 
+	margin-bottom: 100px; 
+	padding-bottom: 0px; 
+	line-height: 0px;
+}
+
+#zakonczenie
+{
+	background: #ECECEC;
+	height: 100px;
+	text-align: center;
+	align-items: center;
+	line-height: 10px;
+	padding-top: 25px;	
+	letter-spacing: 1px; 
+	width: 1920px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 120px;
+}
+
+footer
+{
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #a51b0b;
+	margin:auto;
+	width: 1920px;
+	margin-top: -120px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 10px;
+}
