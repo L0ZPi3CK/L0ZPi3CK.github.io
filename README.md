@@ -1,2 +1,1 @@
-# L0ZPi3CK.github.io
- 
+# Simple website for school project
